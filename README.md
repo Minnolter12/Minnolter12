@@ -10,3 +10,7 @@ I am a student pursuing Electrical and Computer Engineering at Amrita Vishwa Vid
 
 ## 📫 Connect with me
 - 📧 Email: sskzm6012@gmail.com
+
+- ![Dev's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
