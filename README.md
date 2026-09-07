@@ -5,7 +5,7 @@ I am a student pursuing Electrical and Computer Engineering at Amrita Vishwa Vid
 ## 🛠️ Tech Stack & Skills
 - **Hardware & Embedded:** Arduino, MPU6050 Accelerometers, Signal Processing.
 - **Languages:** C, Python, Kotlin
-- **Software Frameworks:** Raylib (Physics/Graphics), Jetpack Compose (Android)
+- **Software Frameworks:** Raylib (Physics/Graphics), Jetpack Compose (Android), Kotlin Multiplatform (Multiplatform) 
 - **Developer Tools:** Git, Linux, Android Studio, Visual Studio Code
 
 ## 📫 Connect with me
