@@ -1,6 +1,6 @@
 # Hi, I'm Dev Madhav! 👋
 
-I am a student pursuing Electrical and Computer Engineering at Amrita Vishwa Vidyapeetham, Coimbatore, passionate about embedded systems, game development and building fun software useful for myself, and sometimes my friends.
+I am a student pursuing Electrical and Computer Engineering at Amrita Vishwa Vidyapeetham, Coimbatore, passionate about embedded systems, game development and building fun software useful for myself, and my friends.
 
 ## 🛠️ Tech Stack & Skills
 - **Hardware & Embedded:** Arduino, MPU6050 Accelerometers, Signal Processing.
